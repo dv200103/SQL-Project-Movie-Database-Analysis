@@ -9,6 +9,4 @@ Key project objectives include:
 
     Data Manipulation: Master the art of data manipulation using SQL, inserting, updating, and deleting movie information, retrieving specific movie details based on various criteria, and exploring advanced querying techniques.
 
-    Data Normalization: Gain valuable experience in data normalization, normalizing the database to eliminate data redundancy and anomalies, ensuring data accuracy and efficiency.
-
 This project will enhance your database skills and equip you with the ability to manage and analyze large datasets, empowering you to tackle data-driven challenges in the real world.
